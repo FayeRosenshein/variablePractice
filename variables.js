@@ -1,6 +1,6 @@
-var name = "Faye"
-var email = "rosefaye.a@gmail.com"
-var school = "Turing"
+var name = "Rosenshein"
+var email = "faye.rosenshein@colorado.edu"
+var school = "CU Boulder"
 
 var age = 27
 var studentId = 2022000247
@@ -10,9 +10,9 @@ var inColorado = false
 var hasPets = false
 var canType = false
 
-var inColorado = true
-var hasPets = true
-var canType = true
+var name = "Faye"
+var email = "rosefaye"
+var school = "Turing"
 
 console.log(name);
 console.log(email);
