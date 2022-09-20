@@ -14,8 +14,8 @@ var inColorado = true
 var hasPets = true
 var canType = true
 
-console.log(name)
-console.log(email)
+console.log(name);
+console.log(email);
 console.log(school);
 console.log(age);
 console.log(studentId);
