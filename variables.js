@@ -10,9 +10,9 @@ var inColorado = true
 var hasPets = true
 var canType = true
 
-var name = "Faye"
-var email = "rosefaye"
-var school = "Turing"
+name = "Faye"
+email = "rosefaye"
+school = "Turing"
 
 console.log(name);
 console.log(email);
